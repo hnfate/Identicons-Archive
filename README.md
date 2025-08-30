@@ -9,6 +9,7 @@ Every identicon is a deterministic 5×5-pixel sprite generated from a username h
 git clone https://github.com/your-username/identicons-archive.git
 cd identicons-archive
 npm install     # only if you want to regenerate assets
+```
 
 #Folder Layout
 ```
